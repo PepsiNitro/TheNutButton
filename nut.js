@@ -31,7 +31,7 @@ function clickCounterTotal() {
   })();
   
   function clickCounterNow(){
-    document.getElementById("nowNumber").innerHTML = "The Nut Has Buttoned " + add() + " Time(s) In This Session"
+    document.getElementById("nowNumber").innerHTML = "The Nut Has Buttoned " + add() + " Time(s) This Session"
 
   }
 
